@@ -1,3 +1,5 @@
+#BAIBURIN
+
 generate_data <- function(y, x1, x2, x3) {
   return(rnorm(y, x1, x2, x3))
 }
